@@ -1,2 +1,2 @@
 # mini-data-analyses
-My mini data anlyses projects
+My mini data anlysis projects
